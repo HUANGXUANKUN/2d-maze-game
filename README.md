@@ -2,7 +2,7 @@
 # Written in Python with pygame
 Video Demo: https://www.youtube.com/watch?v=OkyE1ssDXnQ
 
-Run MazeV5.py
+Run Maze.py
 
 Objective: Help Remy the rat navigate through the maze and find his “friends” while avoiding Chef Skinner from finding Remy. 
 
