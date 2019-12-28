@@ -1,5 +1,4 @@
-# A little Maze Game created for NUS CBLC Club Boothday
-# Written in Python with pygame
+A little Maze Game created for NUS CBLC Club Boothday. Written in Python with pygame
 Video Demo: https://www.youtube.com/watch?v=OkyE1ssDXnQ
 
 # User Guide
